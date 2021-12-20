@@ -1,0 +1,11 @@
+INSERT INTO FEATURE VALUES (1, 'GenerateReport', false);
+INSERT INTO FEATURE VALUES (2, 'UpdateReport', true);
+INSERT INTO FEATURE VALUES (3, 'DownloadReport', false);
+
+
+INSERT INTO USER_GROUP VALUES (1, 'Santa', 'Claus');
+INSERT INTO USER_GROUP VALUES (2, 'Rudolf', 'Reindeer');
+INSERT INTO USER_GROUP VALUES (3, 'Alabaster', 'Snowball');
+INSERT INTO USER_GROUP VALUES (4, 'Merry', 'Claus');
+
+INSERT INTO USER_FEATURE VALUES (1, 1);
